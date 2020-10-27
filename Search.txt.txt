@@ -1,0 +1,27 @@
+<html>
+    <head></head>
+    <body>
+        <table>
+            <tr><img src="logo.png" height = "100px"/></tr>
+            <tr>
+                <td><a href="Home.html">Home</a></td>
+                <td><a href="about.html">About us</a></td>
+                <td><a href="projects.html">Projects</a></td>
+                <td><a href="services.html">Services</a></td>
+                <td><a href="contact.html">Contact us</a></td>
+            </tr>
+        </table>
+        <div style="padding-top: 20px;">
+            Welcome everyone to our own Homepage. <br>
+            This is something like our masked presence. <br> <br>
+
+            we are really happy to know that you came here to the search for your requirements. 
+            You can <a href="about.html">click here</a> to know more about us. 
+            <br><br><br>
+            <strong>Mission</strong> <br>
+            computer science students and former software engineers passionate about programming and design. <br>
+            We like to invent stuff forever. <br>
+            
+        </div>
+    </body>
+</html>

@@ -1,0 +1,82 @@
+ <ul>
+  <li>Adele</li>
+  <li>Agnes</li>
+  <li>Billy</li>
+  <li>Bob</li>
+  <li>Calvin</li>
+  <li>Christina</li>
+  <li>Cindy</li>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML>
+ <HEAD>
+
+<title>
+Contacts
+</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <style>
+table{ font-family:Arial, Helvetica, sans-serif;}
+table,td,th
+  	{
+  		border-collapse:collapse;
+  		border:1px solid black;
+  	}
+	
+table
+{
+	border:1px solid #666;
+	border-collapse:collapse;
+	font-size:13px;
+}
+
+table th
+{
+	border:1px solid #666;
+	padding:3px 10px;
+	background: #1179C1;
+	color: #FFFFFF;
+	font-weight:normal;
+	font-size:14px;
+}
+
+table td 
+{
+border:1px solid #666;
+padding:5px;
+}
+
+  </style>
+ </HEAD>
+
+ <BODY>
+
+<table id="export" border="1">
+<tr><th>ID</th><th>Name</th><th>Details</th></tr>
+
+<tr><td>1</td><td>Advance Talktime</td><td>[phone_v2]Mobile:52141<br/>[email_v2]Home:advtalk@yahoo.com<br/></td></tr>
+
+
+<tr><td>2</td><td>Chandu Bro Kantamaneni</td><td>[phone_v2]Mobile:+16478079999<br/>[phone_v2]Mobile2:6478879999<br/>[email_v2]Home:chkanta@gmail.com<br/></td></tr>
+
+
+<tr><td>3</td><td>Praneeth Room</td><td>[phone_v2]Mobile:(647) 576-9876<br/>[phone_v2]Mobile:6475739876<br/>[email_v2]Home:prrm@gmail.com<br/></td></tr>
+
+
+<tr><td>4</td><td>Sandhya Mam Chandu</td><td>[phone_v2]Mobile:(647) 482-9999<br/>[phone_v2]Mobile:6474829998<br/>[email_v2]Home:smch@hotmail.com<br/></td></tr>
+
+
+<tr><td>5</td><td>Srhari Bro 2</td><td>[phone_v2]Mobile:+918919215958<br/>[phone_v2]Mobile:+918919215958<br/>[email_v2]Home:srhari@gmail.com<br/></td></tr>
+
+<table>
+            <tr><img src="logo.png" height = "100px"/></tr>
+            <tr>
+<tr><td contenteditable= "true"><td><a href="editable.html">editable</a></td></tr>
+
+
+               
+            </tr>
+        </table>
+
+</table>
+ </BODY>
+</HTML>
